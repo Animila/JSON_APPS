@@ -1,0 +1,37 @@
+{
+	"users": [
+		{
+			"id": "1001",
+			"name": "Илья Христофоров",
+			"email": "khrist@mail.ru",
+			"gender": "мужчина",
+			"contact": {
+				"mobile": "+78231237856",
+				"home": "677823",
+				"office": "723441"
+			}
+		},
+		{
+			"id": "1002",
+			"name": "Никита Жульен",
+			"email": "julianProger228@yandex.ru",
+			"gender": "мужчина",
+			"contact": {
+				"mobile": "+72341639822",
+				"home": "677762",
+				"office": "456092"
+			}
+		},
+		{
+			"id": "1003",
+			"name": "Вероника Памельян",
+			"email": "vero@gmail.com",
+			"gender": "женщина",
+			"contact": {
+				"mobile": "+71230023322",
+				"home": "677742",
+				"office": "927423"
+			}
+		}
+	]
+}
